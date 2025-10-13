@@ -11,7 +11,7 @@ I’m **Kirollos Samy**, a passionate **Full Stack Developer** specialized in **
 -  Fun fact: I enjoy turning complex problems into simple and elegant solutions ✨️
 
 ### 🛠️ Tech Stack
-- **Backend:** PHP, Laravel, MySQL  
+- **Backend:** PHP, Laravel, MySQL, Express and Node.js  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap / TailwindCSS  
 - **Version Control:** Git & GitHub  
 - **Other Tools:** Composer, npm, REST API Development  
